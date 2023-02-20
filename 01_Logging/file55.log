@@ -1,0 +1,23 @@
+2023-02-20 15:03:29,447 - root  - DEBUG  This is debug
+2023-02-20 15:03:29,447 - root  - INFO  This is info
+2023-02-20 15:03:29,447 - root  - WARNING  This is warning
+2023-02-20 15:03:29,447 - root  - ERROR  This is error
+2023-02-20 15:03:29,447 - root  - CRITICAL  This is critical
+2023-02-20 15:03:29,447 - root  - CRITICAL  -----------------------------
+2023-02-20 15:06:33,116 - root  - INFO  This is info
+2023-02-20 15:06:33,116 - root  - WARNING  This is warning
+2023-02-20 15:06:33,116 - root  - ERROR  This is error
+2023-02-20 15:06:33,116 - root  - CRITICAL  This is critical
+2023-02-20 15:06:33,116 - root  - CRITICAL  -----------------------------
+2023-02-20 15:07:04,166 - root  - WARNING  This is warning
+2023-02-20 15:07:04,167 - root  - ERROR  This is error
+2023-02-20 15:07:04,167 - root  - CRITICAL  This is critical
+2023-02-20 15:07:04,167 - root  - CRITICAL  -----------------------------
+2023-02-20 15:07:28,910 - root  - ERROR  This is error
+2023-02-20 15:07:28,910 - root  - CRITICAL  This is critical
+2023-02-20 15:07:28,910 - root  - CRITICAL  -----------------------------
+2023-02-20 15:07:30,112 - root  - ERROR  This is error
+2023-02-20 15:07:30,112 - root  - CRITICAL  This is critical
+2023-02-20 15:07:30,112 - root  - CRITICAL  -----------------------------
+2023-02-20 15:07:50,894 - root  - CRITICAL  This is critical
+2023-02-20 15:07:50,894 - root  - CRITICAL  -----------------------------
